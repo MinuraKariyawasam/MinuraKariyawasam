@@ -1,6 +1,6 @@
 ### Hi there, I'm Minura Kariyawasam - Founder TechBroadcast LK  👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/MinuraKariyawasam?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/MinuKariyawasam)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/MinuKariyawasam)
 
 ## I am an undergraduate student at the University of Westminister at School of Computer Science & Engineering. I'm passionate about Research and Overall software engineering, web development, Machine Learning and Data Science.
 
@@ -12,15 +12,6 @@
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-MinuraKariyawasam.vercel.app/api/spotify-playing" alt="MinuraKariyawasam Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
-### Connect with me:
-
-[<img align="left" alt="MinuraKariyawasam | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="MinuraKariyawasam | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="MinuraKariyawasam | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="MinuraKariyawasam | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
 
 ### Languages and Technologies:
 
@@ -45,24 +36,7 @@
 <br />
 
 ---
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#14](https://github.com/MinuraKariyawasam/MinuraKariyawasam/pull/14) in [MinuraKariyawasam/MinuraKariyawasam](https://github.com/MinuraKariyawasam/MinuraKariyawasam)
-2. 🗣 Commented on [#14](https://github.com/MinuraKariyawasam/MinuraKariyawasam/issues/14) in [MinuraKariyawasam/MinuraKariyawasam](https://github.com/MinuraKariyawasam/MinuraKariyawasam)
-3. ❌ Closed PR [#7](https://github.com/MinuraKariyawasam/MinuraKariyawasam/pull/7) in [MinuraKariyawasam/MinuraKariyawasam](https://github.com/MinuraKariyawasam/MinuraKariyawasam)
-4. 🎉 Merged PR [#6](https://github.com/MinuraKariyawasam/MinuraKariyawasam/pull/6) in [MinuraKariyawasam/MinuraKariyawasam](https://github.com/MinuraKariyawasam/MinuraKariyawasam)
-<!--END_SECTION:activity-->
 
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="MinuraKariyawasam's GitHub Stats" src="https://github-readme-stats.MinuraKariyawasam.vercel.app/api?username=MinuraKariyawasam&show_icons=true&hide_border=true" />
-
-</details>
 
 [course]: https://www.youtube.com/playlistlist=PLOQDoNwLXrmfcSEqvlvJb7AUWy3bx7w49
 [twitter]: https://twitter.com/MinuKariyawasam
