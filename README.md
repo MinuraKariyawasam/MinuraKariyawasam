@@ -4,7 +4,7 @@
 
 #### I am an undergraduate student at the University of Westminister at School of Computer Science & Engineering. I'm passionate about Research and Overall software engineering, web development, Machine Learning and Data Science.
 
-- 🔭 My Newest Playlist about Tech: [How to become a Software Engineer][course]
+- 🔭 My Newest Playlist about Software Enginnering: [How to become a Software Engineer][course]
 - 🌱 I’m currently learning Angular | Play Framework
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
