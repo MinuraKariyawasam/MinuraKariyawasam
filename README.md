@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/MinuKariyawasam?label=Follow&style=social)](https://twitter.com/MinuKariyawasam)
 
-# I am an undergraduate student at the University of Westminister at School of Computer Science & Engineering. I'm passionate about Research and Overall software engineering, web development, Machine Learning and Data Science.
+#### I am an undergraduate student at the University of Westminister at School of Computer Science & Engineering. I'm passionate about Research and Overall software engineering, web development, Machine Learning and Data Science.
 
 - 🔭 My Newest Playlist about Tech: [How to become a Software Engineer][course]
 - 🌱 I’m currently learning Angular | Play Framework
