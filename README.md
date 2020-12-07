@@ -1,6 +1,6 @@
 ### Hi there, I'm Minura Kariyawasam - Founder TechBroadcast LK  👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/MinuraKariyawasam?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMinuraKariyawasam&screen_name=MinuKariyawasam)
+[![Twitter Follow](https://img.shields.io/twitter/follow/MinuraKariyawasam?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/MinuKariyawasam)
 
 ## I am an undergraduate student at the University of Westminister at School of Computer Science & Engineering. I'm passionate about Research and Overall software engineering, web development, Machine Learning and Data Science.
 
