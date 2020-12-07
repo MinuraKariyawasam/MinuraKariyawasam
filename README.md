@@ -9,9 +9,9 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
-### Spotify Playing 🎧
+### About TechBroadcast LK 
 
-[<img src="https://now-playing-MinuraKariyawasam.vercel.app/api/spotify-playing" alt="MinuraKariyawasam Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+#### We helped so many people to cut off their fears about Programming and help out to get there first enrolling for IT Career.
 
 ### Languages and Tools:
 
