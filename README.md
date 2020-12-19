@@ -62,7 +62,7 @@
 <br />
 
 
-[course]: https://www.youtube.com/playlistlist=PLOQDoNwLXrmfcSEqvlvJb7AUWy3bx7w49
+[course]: https://youtube.com/playlist?list=PLOQDoNwLXrmfcSEqvlvJb7AUWy3bx7w49
 [twitter]: https://twitter.com/MinuKariyawasam
 [youtube]: https://youtube.com/TechBroadcastLK
 [instagram]: https://instagram.com/minurakariyawasam
