@@ -1,4 +1,4 @@
-#                                            Hi there, I'm Minura Kariyawasam - Founder TechBroadcast LK  👋
+#                                                 Hi there, I'm Minura Kariyawasam 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/MinuKariyawasam?label=Follow&style=social)](https://twitter.com/MinuKariyawasam)
 
