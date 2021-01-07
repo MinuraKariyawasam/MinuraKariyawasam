@@ -1,58 +1,16 @@
-#                                                 Hi there, I'm Minura Kariyawasam 👋
+# Hi, I'm Minura Kariyawasam 👋🏾 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/MinuKariyawasam?label=Follow&style=social)](https://twitter.com/MinuKariyawasam)
+I am an undergraduate student at the University of Westminister at School of Computer Science & Engineering passionate about [Research](https://www.researchgate.net/publication/344191651_Autonomous_Cars_Current_technologies_how_to_improve_accuracy_and_alternative_suggestions_for_car_implication_and_design_issues) and Software Engineering, Web Development, Machine Learning and Data Science. I have volunteered as YouTuber to help the fresh student who newly come to the software engineering field. I exhibit an entrepreneurial mentality and eager to learn independently and adapt to different environments.
 
-#### I am an undergraduate student at the University of Westminister at School of Computer Science & Engineering. I'm passionate about Research and Overall software engineering, web development, Machine Learning and Data Science.
+## What is [TechBroadcast LK](https://www.youtube.com/c/TechBroadcastLK/) ?
 
-- 🔭 My Newest Playlist about Software Enginnering: [How to become a Software Engineer][course]
-- 🌱 I’m currently learning Angular | Play Framework | Deep Learning
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+[TechBroadcast](https://www.youtube.com/c/TechBroadcastLK/) is a channel that helps student develop their careers in the software engineering field. We post new videos every week about new technologies, about software engineering fields.
+-   New video series about [How to be a Software Engineer?](https://www.youtube.com/playlist?list=PLOQDoNwLXrmfcSEqvlvJb7AUWy3bx7w49)
+-   Basic video series about [Python](https://www.youtube.com/playlist?list=PLOQDoNwLXrmfOnfahowaOd8tRzYqhaKyT)
+-   Zero to Hero course on [JavaScript](https://www.youtube.com/playlist?list=PLOQDoNwLXrmfIJbty_XZiPIXs6Reu7Mib)
+-   Learn on [Github](https://www.youtube.com/watch?v=gdM2x83tm1s&t=559s)
 
-### About TechBroadcast LK 
-
-#### We helped so many people to cut off their fears about Programming and help out to get there first enrolling for IT Career.
-
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-
-<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-
-<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
-
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br />
-<br />
-
-
----
-### Connect with me:
+## Find me around the web:
 
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -60,7 +18,6 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-
 
 [course]: https://youtube.com/playlist?list=PLOQDoNwLXrmfcSEqvlvJb7AUWy3bx7w49
 [twitter]: https://twitter.com/MinuKariyawasam
