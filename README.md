@@ -1,10 +1,11 @@
 # Hi, I'm Minura Kariyawasam 👋🏾 
 
-I am an undergraduate student at the University of Westminister at School of Computer Science & Engineering passionate about [Research](https://www.researchgate.net/publication/344191651_Autonomous_Cars_Current_technologies_how_to_improve_accuracy_and_alternative_suggestions_for_car_implication_and_design_issues) and Software Engineering, Web Development, Machine Learning and Data Science. I have volunteered as YouTuber to help the fresh student who newly come to the software engineering field. I exhibit an entrepreneurial mentality and eager to learn independently and adapt to different environments.
+I am an undergraduate student at the University of Westminister at School of Computer Science & Engineering passionate about [Research](https://www.researchgate.net/publication/344191651_Autonomous_Cars_Current_technologies_how_to_improve_accuracy_and_alternative_suggestions_for_car_implication_and_design_issues) and Software Engineering, Web Development, Machine Learning and Data Science. Some technologies I enjoy working with include Java, JavaScript and most of Machine Learning technologies. I volunteered as a YouTuber to assist the fresh student who recently come to the software engineering field. I exhibit an entrepreneurial mentality and eager to learn independently and adapt to different environments.
 
 ## What is [TechBroadcast LK](https://www.youtube.com/c/TechBroadcastLK/) ?
 
-[TechBroadcast](https://www.youtube.com/c/TechBroadcastLK/) is a channel that helps student develop their careers in the software engineering field. We post new videos every week about new technologies, about software engineering fields.
+[TechBroadcast LK](https://www.youtube.com/c/TechBroadcastLK/) holds a channel that encourages fresh IT student develops their professions in the software engineering field. As a channel, we talk about every aspect of the IT field (ie: Software, Networking, Cyber Security, Data Science) and post innovative videos every week to talk about various technologies to help the students concreate their knowledged.
+
 -   New video series about [How to be a Software Engineer?](https://www.youtube.com/playlist?list=PLOQDoNwLXrmfcSEqvlvJb7AUWy3bx7w49)
 -   Basic video series about [Python](https://www.youtube.com/playlist?list=PLOQDoNwLXrmfOnfahowaOd8tRzYqhaKyT)
 -   Zero to Hero course on [JavaScript](https://www.youtube.com/playlist?list=PLOQDoNwLXrmfIJbty_XZiPIXs6Reu7Mib)
