@@ -2,10 +2,6 @@
 
 I am an undergraduate student at the University of Westminister at School of Computer Science & Engineering passionate about DevOps and Systems Engineering. Some technologies I enjoy working with include Java, Python, Bash. I volunteered as a YouTuber to assist the fresh student who recently come to the software engineering field. I exhibit an entrepreneurial mentality and eager to learn independently and adapt to different environments.
 
-## What is [Tech Consultant LK](https://www.youtube.com/channel/UCn1TgDay-L2nNaJ8H0-6Pmw/) ?
-
-[Tech Consultant LK](https://www.youtube.com/channel/UCn1TgDay-L2nNaJ8H0-6Pmw/) holds a channel that encourages fresh IT student develops their professions in the software engineering field. As a channel, we talk about every aspect of the IT field (ie: Software, Networking, Cyber Security, Data Science) and post innovative videos every week to talk about various technologies to help the students concreate their knowledged.
-
 ## Find me around the web:
 
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
