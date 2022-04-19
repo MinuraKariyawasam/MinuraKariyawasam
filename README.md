@@ -1,8 +1,10 @@
 # Hi, I'm Minura Kariyawasam 👋🏾 
 
-I am an undergraduate student at the University of Westminister at School of Computer Science & Engineering passionate about DevOps and Systems Engineering. Some technologies I enjoy working with include Java, Python, Bash. I volunteered as a YouTuber to assist the fresh student who recently come to the software engineering field. I exhibit an entrepreneurial mentality and eager to learn independently and adapt to different environments.
+Spent 2+ years developing the skills to increase velocity, reliability, and quality with a high focus on security. Deep experience with AWS, Docker, Kubernetes, and helping organizations instill DevOps for the modern age.
 
-## Find me around the web:
+You can reach me via email at minurakariyawasaminfo@gmail.com.
+
+## Latest update:
 
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -11,8 +13,7 @@ I am an undergraduate student at the University of Westminister at School of Com
 
 <br />
 
-[course]: https://youtube.com/playlist?list=PLOQDoNwLXrmfcSEqvlvJb7AUWy3bx7w49
-[twitter]: https://twitter.com/MinuKariyawasam
-[youtube]: https://youtube.com/TechBroadcastLK
+[twitter]: https://twitter.com/MBKariyawasam
+[youtube]: https://youtube.com/c/TechConsultantLK
 [instagram]: https://instagram.com/minurakariyawasam
 [linkedin]: https://www.linkedin.com/in/minurakariyawasam/
