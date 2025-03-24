@@ -2,7 +2,7 @@
 
 **Solution Engineer @ WSO2** | Integration | Cloud-Native Architectures  
 
-Building scalable, secure enterprise solutions with WSO2, Ballerina, Kubernetes, and Azure. Focused on API management, integration, and solving complex technical challenges.  
+Solving complex technical challenges in enterprise integration. Expert in API management, integration, and scalable deployments.
 
 📩 **minurakariyawasaminfo@gmail.com**  
 
