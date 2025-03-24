@@ -2,7 +2,7 @@
 
 **Solution Engineer @ WSO2** | Integration | Cloud-Native Architectures  
 
-Solving complex technical challenges in enterprise integration. Expert in API management, integration, and scalable deployments.
+Solving complex enterprise challenges with API management, integration, and scalable deployments.
 
 📩 **minurakariyawasaminfo@gmail.com**  
 
