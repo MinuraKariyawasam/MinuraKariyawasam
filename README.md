@@ -1,6 +1,6 @@
 # Hi, I'm Minura Kariyawasam 👋🏾  
 
-**Solution Engineer @ WSO2** | Integration | Cloud-Native Architectures  
+Solution Architect — Enterprise Integration
 
 Solving complex enterprise challenges with API management, integration, and scalable deployments.
 
