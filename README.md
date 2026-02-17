@@ -1,6 +1,6 @@
 # Hi, I'm Minura Kariyawasam 👋🏾  
 
-Solution Architect — Enterprise Integration
+Senior Sales Engineer — Enterprise Integration
 
 Solving complex enterprise challenges with API management, integration, and scalable deployments.
 
